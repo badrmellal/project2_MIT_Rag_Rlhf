@@ -25,7 +25,7 @@ This project implements a complete RAG system that:
 1. Open the notebook in Google Colab:
    - Visit [Google Colab](https://colab.research.google.com/)
    - Create a new notebook or upload the `MIT_RAG_System.ipynb` file
-   - Or open directly from GitHub: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badrnellal/project2_MIT_Rag_Rlhf/blob/main/MIT_RAG_System.ipynb)
+ 
    
 2. The notebook includes all necessary installation commands. Run the first cell to install dependencies:
    ```python
